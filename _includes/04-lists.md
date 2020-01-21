@@ -1,1 +1,2 @@
-:cloud: :zap:
+- :cloud:
+* :zap:
